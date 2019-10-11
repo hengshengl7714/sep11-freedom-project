@@ -1,5 +1,6 @@
 # Entry 1
 
-Text
+In 2008, an anonymous person named “Satoshi Nakamoto” published the bitcoin whitepaper online. In the book, he proposed a decentralized digital currency. Bitcoin is an innovation because today's transaction is performed by an authority usually a bank, but bitcoin is decentralized, which anyone could form someone else’s transaction. Every time a transaction is performed, the information will be added to all the previous transaction records, which people called it a “Blockchain”. The blockchain is encrypted and sent to every peer that’s processing transactions. The people that are performing transaction are called “Bitcoin Miner”. Nakamoto also suggests a rewarding system to motivate people to perform transactions, if a transaction is happening, the sender has to pay extra bitcoin to the miner for performing their transaction. The miner who successfully perform the transaction, the system will reward the person extra Bitcoins. When the Bitcoin system was established, the system was rewarded 50 Bitcoins per transaction, every 4 years the reward reduces by half. 2008 is a really disastrous year for the economy and the system trying to prevent economic problems like inflation, Nakamoto limited the supply of the Bitcoin, there is only 21 million Bitcoin in the system. 
+
 
 [Home](../README.md)
